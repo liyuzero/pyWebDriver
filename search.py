@@ -8,7 +8,7 @@ from selenium import webdriver
 import time  
 import urllib 
 
-OUTPUT_DIR = '/Users/liyu20/Documents/运动'
+OUTPUT_DIR = '/Users/xxx/Documents/运动'
 
 SEARCH_KEY_WORDS = ['羽毛球','羽毛球拍','篮球','足球','乒乓球拍','网球拍','台球桌','弓箭','跑步机','动感单车']
 
